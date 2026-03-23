@@ -27,7 +27,8 @@
           enumerable: true,
           set(value) {
             value.servers = [
-  { addr: "wss://arch.mc", name: "ArchMC" },
+  { addr: "wss://mc.theludos.com", name: "The EagMP" },
+  { addr: "wss://crazysmp.duckdns.org", name: "CrazySmp" },
   { addr: "wss://1b2t.eagler.host", name: "1 Builder 2 Tools" }
 ];
             this._eaglercraftXOpts = value;
