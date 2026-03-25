@@ -29,7 +29,6 @@
             value.servers = [
   { addr: "wss://mc.theludos.com", name: "The EagMP" },
   { addr: "wss://crazysmp.duckdns.org", name: "CrazySmp" },
-  { addr: "wss://special-space-xylophone-g4v45qjp74x4cq7q-8081.app.github.dev/", name: "StealthCraft" },
   { addr: "wss://1b2t.eagler.host", name: "1 Builder 2 Tools" }
 ];
             this._eaglercraftXOpts = value;
